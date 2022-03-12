@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá! Eu sou Rauny Tiomnoi 👋
 
-<!--
-**Tiomnoi/tiomnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um pouquinho sobre esse carinha...
 
-Here are some ideas to get you started:
+- 🔭 Hoje trabalho como Almoxarifade...iniciando passos no mundo de TI.
+- 🌱 Atualmente estou aprendendo , e muito , Linguagem de programação ( javascript / python ).
+- 👯 Tento ajudar ao máximo quem procura minha ajuda.
+- 🤔 Procuro ajuda para estagiar na area de TI.
+- 💬 Pergunte sobre o que quiser.
+- 📫 Como chegar até mim: email...raunitiomnoi@gmail.com / telefone e whatapp : 12-981736578
+- 😄 Fato engraçado: depois de 36 anos trabalhando em Logistica se encontrar na area de TI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <a href="https://github.com/tiomnoi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiomnoi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiomnoi&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   
+</div>
 -->
